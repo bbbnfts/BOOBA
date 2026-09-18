@@ -1,0 +1,26 @@
+{
+  "format": "CHIP-0007",
+  "minting_tool": "mintgarden-studio",
+  "sensitive_content": false,
+  "name": "Booba #34",
+  "description": "BoobaClub is a neon-inspired NFT collection on the XCH blockchain featuring stylish AI-generated waifus, premium aesthetics, and collectible rarity traits. Built for degens, collectors, and lovers of web3 art culture.\n\nWelcome to the club.",
+  "attributes": [],
+  "collection": {
+    "id": "bdb4697f-9c28-47b9-b52f-dc02c54803f6",
+    "name": "Booba Club",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "BoobaClub\n\nWelcome to BoobaClub — a neon-soaked NFT collection living on the XCH blockchain.\n\nA universe filled with stunning digital muses, cyber aesthetics, and late-night energy. Each piece is uniquely generated with stylish traits, seductive vibes, and premium anime-inspired visuals crafted for collectors, degens, and web3 art lovers.\n\nBoobaClub is more than just an NFT collection — it’s a members-only vibe where neon lights, beauty, and crypto culture collide.\n\nBuilt for the Chia community.\nPowered by art, rarity, and degen energy.\n\n✨ Exclusive Traits\n🌙 Neon Aesthetic\n💎 Collectible Rarities\n🔥 Web3 Degenerate Culture\n\nWelcome to the club."
+      },
+      {
+        "type": "icon",
+        "value": "https://ipfs.mintgarden.io/ipfs/bafybeibmeeg3iu6qgp2e4pu3p7sm3tkpzpiuaaxegxho7tyzxtrfoou5uq/photo_2026-05-29_00-30-23.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://ipfs.mintgarden.io/ipfs/bafybeibmeeg3iu6qgp2e4pu3p7sm3tkpzpiuaaxegxho7tyzxtrfoou5uq/photo_2026-05-29_00-30-23.jpg"
+      }
+    ]
+  }
+}
